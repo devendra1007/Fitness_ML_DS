@@ -96,10 +96,6 @@ The system achieves over 90% accuracy in classifying exercises across different 
 - Email: dataversaiesolutions@gmail.com
 - LinkedIn: @sahilthorat
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 <div align="center">
-    <p>Made with ❤️ and Python</p>
-    <p>⭐ Star this repository if you found it useful! ⭐</p>
+    <p>Made with ❤️ by Sahil Thorat</p>
 </div>
